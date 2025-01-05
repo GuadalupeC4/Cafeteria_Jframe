@@ -1,0 +1,107 @@
+
+Nombre de la bebida: Americano
+Tamaño de la bebida: Grande
+
+Nombre de la bebida: Americano
+Tamaño de la bebida: Grande
+
+ORDEN
+Nombre del Cliente: cameron
+Nombre de la bebida: Cafe Con Leche
+Tamaño de la bebida: Mediano
+
+ORDEN
+Nombre del Cliente: juan
+Nombre de la bebida: Late
+Tamaño de la bebida: Mediano
+
+ORDEN
+Nombre del Cliente: luis
+Nombre del Postre: Galleta de Nuez
+Costo de la bebida20
+
+ORDEN
+Nombre del Cliente: perla
+Nombre del Postre: Pastel de 3 leches
+Costo del Postre: $35
+
+ORDEN
+Nombre del Cliente: pedro
+Nombre del Postre: null
+Costo del Postre: $0
+
+ORDEN
+Nombre del Cliente: juna
+Nombre del Postre: null
+Costo del Postre: $0
+
+ORDEN
+Nombre del Cliente: luis
+Nombre del Postre: Pastel de queso con oreo
+Costo del Postre: $30
+
+ORDEN
+Nombre del Cliente: juana
+Nombre del Postre: Pastel de queso con fresa
+Costo del Postre: $30
+
+ORDEN
+Nombre del Cliente: juana
+Nombre de la bebida: Frappes Cappuccino
+Tamaño de la bebida: Grande
+Costo de la bebida: $65
+
+ORDEN
+Nombre del Cliente: lupe
+Nombre de la bebida: Late
+Tamaño de la bebida: Mediano
+Costo de la bebida: $40
+
+ORDEN
+Nombre del Cliente: lupe
+Nombre del Postre: Pay de queso
+Costo del Postre: $30
+
+Nombre del Postre: Pay de queso
+Costo del Postre: $30
+
+Nombre del Postre: Pay de queso
+Costo del Postre: $30
+
+ORDEN
+Nombre del Cliente: hbhbbh
+Nombre del Postre: Galleta de Nuez
+Costo del Postre: $20
+
+ORDEN
+Nombre del Cliente: fgfgf
+Nombre del Postre: Pastel de queso con oreo
+Costo del Postre: $30
+
+Nombre del Postre: Pastel de queso con oreo
+Costo del Postre: $30
+
+Nombre del Postre: Pastel de queso con oreo
+Costo del Postre: $30
+
+ORDEN
+Nombre del Cliente: Guadalupe
+Nombre de la bebida: Late
+Tamaño de la bebida: Pequeño
+Costo de la bebida: $30
+
+Nombre de la bebida: Late
+Tamaño de la bebida: Pequeño
+Costo de la bebida: $30
+
+Nombre de la bebida: Late
+Tamaño de la bebida: Pequeño
+Costo de la bebida: $30
+
+ORDEN
+Nombre del Cliente: Guadalupe
+Nombre del Postre: Pay de queso
+Costo del Postre: $30
+
+ORDEN
+Nombre del Cliente: luis
